@@ -25,7 +25,7 @@ https://www.forbes.com/sites/michaeltnietzel/2024/03/20/stanford-to-again-offer-
 
 ## Section Slides
 
-I am a Section Leader for Code in Place 2024, leading a weekly section of students over Zoom.  The course lasts 6 weeks and covers many topics in computer science and Python.  In the live sections, we go over new concepts and work through hands-on exercises.
+I was a Section Leader for Code in Place 2024, leading a weekly section of students over Zoom.  The course lasts 6 weeks and covers many topics in computer science and Python.  In the live sections, we go over new concepts and work through hands-on exercises.
 
 I created the slides in this repository for use in my weekly sections.
 
