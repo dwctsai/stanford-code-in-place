@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=wg3Dl4yQSMU
 
 Forbes article:
 <br>
-https://www.forbes.com/sites/michaeltnietzel/2023/06/01/stanford-universitys-free-code-in-place-course-hits-the-mark/amp/
+https://www.forbes.com/sites/michaeltnietzel/2024/03/20/stanford-to-again-offer-its-groundbreaking-online-code-in-place-course/
 
 
 ## Section Slides
