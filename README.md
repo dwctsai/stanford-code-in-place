@@ -1,12 +1,12 @@
-# Stanford CS106A - Code in Place 2024
+# Stanford CS106A - Code in Place 2025
 
 <p align="center">
-    <img src="media/cip_2024_homepage.jpg" width="500">
+    <img src="media/cip_2025_homepage.jpg" width="500">
 </p>
 
 ## About Code in Place
 
-Stanford University's "Code in Place" program is an international computer science Python course offered for free across the world.  In the 2024 version of the course, the program had 700 volunteer teachers and 10,000 students.
+Stanford University's "Code in Place" program is an international computer science Python course offered for free across the world.  In the 2025 version of the course, the program had 1300 volunteer teachers and 20,000 students.
 
 Code in Place is the online version of Stanford's CS106A course ("Programming Methodology"), the university's largest and most popular programming course with enrollment of 1,300+ students per year.
 
@@ -25,9 +25,11 @@ https://www.forbes.com/sites/michaeltnietzel/2023/06/01/stanford-universitys-fre
 
 ## Section Slides
 
-I am a Section Leader for Code in Place 2024, leading a weekly section of students over Zoom.  The course lasts 6 weeks and covers many topics in computer science and Python.  In the live sections, we go over new concepts and work through hands-on exercises.
+I am a Head TA for Code in Place 2025, where I lead a group of 100+ Section Leaders, each of whom teaches a weekly live section of 15 students over Zoom.
 
-I created the slides in this repository for use in my weekly sections.
+The program lasts 6 weeks and covers many topics in computer science and Python.  In the live sections, Section Leaders go over new concepts and work through hands-on exercises.
+
+I created the slides in this repository for use in the weekly sections.
 
 ## Schedule
 
