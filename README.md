@@ -6,7 +6,7 @@
 
 ## About Code in Place
 
-Stanford University's "Code in Place" program is an international computer science Python course offered for free across the world.  In the 2025 version of the course, the program had 1300 volunteer instructors and 20,000 students from over 150 countries.
+Stanford University's "Code in Place" program is an international computer science Python course offered for free across the world.  In the 2025 version of the course, the program had 1,400 volunteer instructors and 21,000 students from over 150 countries.
 
 Code in Place is the online version of Stanford's CS106A course ("Programming Methodology"), the university's largest and most popular programming course with enrollment of 1,600+ on-campus students per year.
 
