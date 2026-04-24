@@ -1,7 +1,7 @@
-# Stanford CS106A - Code in Place 2025
+# Stanford CS106A - Code in Place 2026
 
 <p align="center">
-    <img src="media/cip_2025_homepage.jpg" width="500">
+    <img src="media/cip_2026_homepage.jpg" width="500">
 </p>
 
 ## About Code in Place
@@ -25,7 +25,7 @@ https://www.forbes.com/sites/michaeltnietzel/2023/06/01/stanford-universitys-fre
 
 ## Section Slides
 
-I am a Head TA for Code in Place 2025, where I lead a group of 100+ Section Leaders, each of whom teaches a weekly live section of 15 students over Zoom.
+I am a Head TA for Code in Place, where I lead a group of 100+ Section Leaders, each of whom teaches a weekly live section of 15 students over Zoom.
 
 The program lasts 6 weeks and covers many topics in computer science and Python.  In the live sections, Section Leaders go over new concepts and work through hands-on exercises.
 
