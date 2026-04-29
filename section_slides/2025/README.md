@@ -25,7 +25,7 @@ https://www.forbes.com/sites/michaeltnietzel/2023/06/01/stanford-universitys-fre
 
 ## Section Slides
 
-I am a Head TA for Code in Place, where I lead a group of 100+ Section Leaders, each of whom teaches a weekly live section of 15 students over Zoom.
+I was a Head TA for Code in Place 2025, where I lead a group of 100+ Section Leaders, each of whom teaches a weekly live section of 15 students over Zoom.
 
 The program lasts 6 weeks and covers many topics in computer science and Python.  In the live sections, Section Leaders go over new concepts and work through hands-on exercises.
 
